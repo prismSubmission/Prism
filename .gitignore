@@ -1,0 +1,15 @@
+**/.DS_Store
+model/*
+models/*
+!models/
+!models/.gitkeep
+dataset*/*
+!dataset/
+!dataset/.gitkeep
+.vscode/*
+build*/*
+ONNX/*
+.cache/*
+runs/*
+scripts/*
+single_run_output/*
